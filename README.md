@@ -1,4 +1,4 @@
-## Add my APT repo - phoenixsploit package broken
+## Add my APT repo
 
 ### Installation (debian based distros):
 
@@ -16,22 +16,7 @@ sudo apt update && sudo apt upgrade -y && sudo apt install apt-transport-https c
 
 #### Packages:
 
-- phoenixrelay (script which routes all your traffic through a tor relay) <br/>
+- nezuko (Test Application) <br/>
 ```shell
-sudo apt install phoenixrelay -y
-```
-
-- phoenixsploit (idk what it is rn) <br/>
-```shell
-sudo apt install phoenixsploit -y
-```
-
-- hentai (prints an ascii cat) <br/>
-```shell
-sudo apt install hentai -y
-```
-
-- rockyou (downloads the rockyou.txt wordlist) <br/>
-```shell
-sudo apt install rockyou -y
+sudo apt install nezuko -y
 ```
