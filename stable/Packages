@@ -3,9 +3,9 @@ Version: 0.0.1
 Architecture: all
 Maintainer: phoenixthrush <contact@phoenixthrush.com>
 Filename: ./nezuko_0.0.1-1_all.deb
-Size: 696
-MD5sum: b34c39ee8b182a53ecc9841e41c95947
-SHA1: 513a72ade229adfa885909f21e0029c2826577ce
-SHA256: ab104b1cde33611216749d10c89ff470da5b04fa75ab04e6ac31af0a69656c14
+Size: 788
+MD5sum: 7cea61afca32105a77dc73118545bce2
+SHA1: 9a8bed15a12e23dc7e4a993678939954aa351aa2
+SHA256: f83f8fe1bb8507d10fa1a52b8d1eea8a211e57cb0c027ef7b37bb7a59ff3cef2
 Description: Test Application
 
