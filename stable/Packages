@@ -1,3 +1,14 @@
+Package: monitor
+Version: 0.0.1
+Architecture: all
+Maintainer: phoenixthrush <contact@phoenixthrush.com>
+Filename: ./monitor_0.0.1-1_all.deb
+Size: 4836
+MD5sum: cc636bc02da420fd67853c72d62d3a6b
+SHA1: e11da132b7e78c36cc52319f4d8c2f52aec3d488
+SHA256: 94ce752d5e1069074f3c72fb50a3baa84695c4c65fb84e829dbfd2e11b1c5536
+Description: Manage hosts by adding, removing, displaying, and pinging them, with cron job support.
+
 Package: nezuko
 Version: 0.0.1
 Architecture: all
